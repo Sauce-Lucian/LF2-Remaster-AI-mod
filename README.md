@@ -10,6 +10,11 @@ A Little Fighter 2 Remaster AI mod by Sauce.
 10 fighters AI obey the rules of Chinese;
 
 
+TemplateAI可以使用指令控制动作进行练习;
+
+Template AI can practice by controlling actions using commands;
+
+
 Easy,Normal,Difficult,CRAZY!均为不同难度:
 
 Easy,Normal,Difficult,BEST! for different difficulty：
