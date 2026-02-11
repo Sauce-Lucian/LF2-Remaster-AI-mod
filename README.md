@@ -11,7 +11,9 @@ A Little Fighter 2 Remaster AI mod by Sauce.
 
 
 Easy,Normal,Difficult,CRAZY!均为不同难度:
+
 Easy,Normal,Difficult,BEST! for different difficulty：
+
 
 Easy:为初入游戏的新手设立的难度.
 
