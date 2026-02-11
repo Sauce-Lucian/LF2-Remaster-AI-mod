@@ -65,8 +65,12 @@ Thanks Can,XN,berry,chikasa for testing;
 
 Thanks darkfiren and Leaf.F for change the EXE file;
 
+
 感谢Can匠录影并推广此项目;
+
 Thanks Can for recording video and promote this project;
 
+
 感谢您的游玩!
+
 Thanks for your playing!
