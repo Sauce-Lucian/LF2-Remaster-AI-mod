@@ -1,8 +1,23 @@
 # LF2-Remaster-AI-mod
 
-酱油制作的Little Fighter 2 Remaster AI mod.
+酱油制作的Little Fighter 2 Remaster AI mod;
 
-A Little Fighter 2 Remaster AI mod by Sauce.
+A Little Fighter 2 Remaster AI mod by Sauce;
+
+
+为函数添加解释，以帮助学习者理解代码块的作用;
+
+Adding explanations to the functions to facilitate learners' understanding of the role of code blocks;
+
+
+安装:将所有文件解压至Little Fighter 2 remastered\resources\app;
+
+install:put all files to Little Fighter 2 remastered\resources\app;
+
+
+还原:在Steam上验证游戏的完整性;
+
+uninstall:verify the integrity of the game on Steam;
 
 
 十斗士AI遵守中国大陆比赛规则;
