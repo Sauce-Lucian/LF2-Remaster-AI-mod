@@ -37,7 +37,7 @@ Easy,Normal,Difficult,BEST! for different difficulty：
 
 Easy:为初入游戏的新手设立的难度.
 
-Easy: For new hands who just enter the Game.
+Easy:For new hands who just enter the Game.
 
 
 Normal:为入门开始学习招式与技巧的玩家设立的难度.
@@ -57,12 +57,12 @@ CRAZY!:FOR BEST OF THE BEST!
 
 闯关模式中所有友方AI为CRAZY!等级,敌方AI被削弱;
 
-All friendly AI is CRAZY!,Enemy AI has been weakened in Stage mode;
+All friendly AI is CRAZY!,enemy AI has been weakened in Stage mode;
 
 
 AI已尽量设置为与人类相近，但仍有缺陷;
 
-AI has been set as close as possible to human beings, but there are still some defects;
+AI has been set as close as possible to human beings,but there are still some defects;
 
 
 =======================================================
@@ -86,16 +86,6 @@ Thank Fonix for his testing and suggestions on the template;
 感谢Can匠，XN，小白，果冻的测试;
 
 Thanks Can,XN,berry,chikasa for testing;
-
-
-感谢darkfiren和Leaf.F对exe做出修改;
-
-Thanks darkfiren and Leaf.F for change the EXE file;
-
-
-感谢Can匠录影并推广此项目;
-
-Thanks Can for recording video and promote this project;
 
 
 感谢您的游玩!
