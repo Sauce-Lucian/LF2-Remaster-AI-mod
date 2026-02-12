@@ -68,6 +68,11 @@ AI has been set as close as possible to human beings, but there are still some d
 =======================================================
 
 
+感谢Doix对AI进行移植;
+
+Thank Doix for porting AI;
+
+
 感谢Thomas对AI代码的帮助;
 
 Thank Thomas for AI coding help;
